@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.exe
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.deps.json
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.runtimeconfig.json
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.dll
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\bin\Debug\netcoreapp3.1\ShoppingApp.pdb
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.dll
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.pdb
+C:\Users\wwstudent\source\repos\ShoppingApp\ShoppingApp\obj\Debug\netcoreapp3.1\ShoppingApp.genruntimeconfig.cache
